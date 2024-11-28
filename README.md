@@ -1,10 +1,11 @@
-# Notes 
+# Note
 
 ## Important
 - About : This course is provided by AWS officialy , on their own lms/portal ,not directly accesible to everyone ,
   need to register through thier added organisations which you could find below at https://aws.amazon.com/training/restart/
 
 ## Casual 
+
 
 
 # Useful Links 
