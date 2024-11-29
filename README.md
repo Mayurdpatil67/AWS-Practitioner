@@ -8,7 +8,7 @@
 
 - Conducted by: Amazon Web Services (AWS)
 - Supported by: HOPE Foundation
-- Instructed by: Murali Mahalingam, AWS Solution Architect/Cloud Instructor
+- Instructed by: 
 
 # Notes
 
